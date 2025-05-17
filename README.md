@@ -13,3 +13,5 @@ v1.2 is available
 - TTS
 - Shutdown the program
 - System information
+
+The code of the program will be released soon.
