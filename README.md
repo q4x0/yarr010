@@ -1,6 +1,7 @@
 # yarr010
 A program that allows you to contact your computer from Discord.
 Made for fun.
+
 Homepage: https://yarr010.netlify.app
 
 v1.0 is available
